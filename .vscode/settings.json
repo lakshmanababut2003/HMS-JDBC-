@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\anjana\\Downloads\\postgresql-42.7.8.jar",
+        "/home/zoho/Desktop/lachu-2526/jdbc/Pratice/lib/postgresql-42.7.8.jar"
+    ]
+}
